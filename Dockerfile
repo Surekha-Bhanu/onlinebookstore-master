@@ -1,3 +1,3 @@
 FROM tomcat
 
-COPY target/dependency/webapp-runner.jar /usr/local/tomcat/webapps/
+COPY target/onlinebookstore.jar /usr/local/tomcat/webapps/
